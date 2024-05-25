@@ -10,6 +10,14 @@ The pipeline of the project is as follows:
 6. also implemented webscraping using beautiful soup libarary, so users can get all the latest info of the stock right there in the webapp.
 7. i have also create a flutter app that uses webview to display streamlit app inside mobile app.
 
+to run the application:
+1. start the kafka zookeeper and kafka server.
+2. change the url in the code of producer and consumer, to where kafka server is running
+3. run producer.py
+4. run consumer.py
+5. also run streamlit run streamlit_Stock_App.py
+6. you would be able to see the streamlit interface on the web.
+
 project working photos:
 ![image](https://github.com/Malaysanghvi17/kafka-spark-based-stock-analytics-prediction-app/assets/127402092/e6746d65-a6f2-4aaf-8974-6804f5fb5324)
 ![image](https://github.com/Malaysanghvi17/kafka-spark-based-stock-analytics-prediction-app/assets/127402092/d66413f0-c918-468e-9cf9-5ee22251b3a6)
@@ -19,7 +27,7 @@ project working photos:
 machine learning based prediction(spark.ml):
 ![image](https://github.com/Malaysanghvi17/kafka-spark-based-stock-analytics-prediction-app/assets/127402092/8214aed4-872d-4ab4-97a3-94f4c98e7359)
 
-      flutter web view:
+     flutter web view:
 ![image](https://github.com/Malaysanghvi17/kafka-spark-based-stock-analytics-prediction-app/assets/127402092/b4bfa4f5-6b6f-4c57-b055-4e719deea694)
 
 Also i would like to thank Jawahar Ramis - ( https://github.com/JawaharRamis/stock-price-analysis-kafka-spark-influxdb-grafana ) repository for inspiration of the project.
