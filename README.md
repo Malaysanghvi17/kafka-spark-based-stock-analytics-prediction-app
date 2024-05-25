@@ -19,7 +19,7 @@ project working photos:
 machine learning based prediction(spark.ml):
 ![image](https://github.com/Malaysanghvi17/kafka-spark-based-stock-analytics-prediction-app/assets/127402092/8214aed4-872d-4ab4-97a3-94f4c98e7359)
 
-flutter web view:
+      flutter web view:
 ![image](https://github.com/Malaysanghvi17/kafka-spark-based-stock-analytics-prediction-app/assets/127402092/b4bfa4f5-6b6f-4c57-b055-4e719deea694)
 
-Also i would like to thank Jawahar Ramis(https://github.com/JawaharRamis/stock-price-analysis-kafka-spark-influxdb-grafana)'s repository for inspiration of the project.
+Also i would like to thank Jawahar Ramis - ( https://github.com/JawaharRamis/stock-price-analysis-kafka-spark-influxdb-grafana ) repository for inspiration of the project.
